@@ -2,34 +2,13 @@
   "spider":"./yydf.jar",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-     {
-      "key":"py_cctv11",
-     "name": "🦢CCTV动画🎈",
-     "type": 3,
-     "api":"py_cctv",
-     "searchable": 0,
-     "quickSearch": 0,
-     "filterable": 0,
-     "ext": "./py_cctvdh.py"
-    },
-{"key": "py_cctv",
-"name": "❤️央视☆大全",
-"type": 3,
-"api": "py_cctv",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"ext": "./lib/cntv.py"},
-
+    
 
  {
       "key": "儿童识字",
       "name": "👶儿童☆识字",
       "type": 3,
       "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
       "ext": "./lib/儿童识字.json"
     },
     {
